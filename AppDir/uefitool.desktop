@@ -5,5 +5,6 @@ Comment=UEFI firmware image viewer and editor
 Exec=uefitool
 Icon=uefitool
 Terminal=false
+StartupWMClass=uefitool
 Categories=Development;System;Utility;HardwareSettings;Electronics;Engineering;
 Keywords=BIOS;UEFI;
